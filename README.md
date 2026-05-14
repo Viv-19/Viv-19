@@ -8,7 +8,7 @@
 <!-- Sequential Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&multiline=false&width=800&height=80&lines=HI+I+AM+VIVESH+KUMAR+SINGH;HI+I+AM+%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%B6+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9;HOLA+I+AM+VIVESH+KUMAR+SINGH" alt="Sequential Text" width="100%"/>
 
-<h3><b>AI Engineer | Masters @IIIT Lucknow</b></h3>
+<h2><b>AI Engineer | Masters @IIIT Lucknow</b></h2>
 
 </div>
 
@@ -26,8 +26,8 @@
   <a href="https://leetcode.com/vivesh_kumar_singh19/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/vivesh_kumar_singh19" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
+  <a href="https://codeforces.com/profile/viveshkumarsingh2020" target="_blank">
+    <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
