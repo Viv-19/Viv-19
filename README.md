@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Minecraft Style Pixel Sloth Animation -->
-<img src="assets/pixel-sloth.svg" width="100%" alt="Pixel Sloth Animation"/>
-
 <!-- Anime Mountain Coder Image -->
 <img src="assets/anime-coder.png" alt="Anime Mountain Coder" width="100%" style="border-radius: 12px;"/>
 
@@ -37,49 +34,6 @@
 
 ---
 
-## Languages and Tools
-
-**Languages:**
-| Python3 | C++ | JavaScript |
-|---|---|---|
-| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></div> |
-
-**Machine Learning Frameworks:**
-| PyTorch | TensorFlow |
-|---|---|
-| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></div> |
-
-**Best frameworks and main libraries for Python3:**
-| Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
-|---|---|---|---|---|
-| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/></div> |
-
-**My tools for Data Manipulation:**
-| Conda | Jupyter | MySQL | Postgres |
-|---|---|---|---|
-| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></div> |
-
-**Frameworks:**
-| React | Node.js | FastAPI |
-|---|---|---|
-| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/></div> |
-
----
-
-## Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/vivesh_kumar_singh19/">
-    <img src="https://leetcard.jacoblin.cool/vivesh_kumar_singh19?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
-  </a>
-  <br/><br/>
-  <a href="https://codeforces.com/profile/viveshkumarsingh2020">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=viveshkumarsingh2020&theme=dark" alt="Codeforces Stats"/>
-  </a>
-</div>
-
----
-
 ## 🌟 About Me
 > **AI/GenAI Developer & Researcher**  
 > 🎓 M.Sc AI & ML @ IIIT Lucknow | 📍 Lucknow, India
@@ -87,3 +41,85 @@
 > 🔬 **Current Focus:** Research Intern @ TCS-Intel Collaboration  
 > 🦥 **Building:** Academic Sloth - AI Research Assistant  
 > 🧠 **Exploring:** Fine-tuning LLMs for edge deployment  
+
+---
+
+## 🛠️ Technical Skills
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### Generative AI and LLMs
+![NLP](https://img.shields.io/badge/NLP-87CEEB?style=flat&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-87CEEB?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=graphql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-87CEEB?style=flat)
+![AI Agents](https://img.shields.io/badge/AI_Agents-87CEEB?style=flat)
+![LoRA](https://img.shields.io/badge/LoRA-87CEEB?style=flat)
+![QLoRA](https://img.shields.io/badge/QLoRA-87CEEB?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-87CEEB?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-87CEEB?style=flat)
+
+#### Machine Learning and Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
+![Supervised/Unsupervised](https://img.shields.io/badge/Supervised_&_Unsupervised-87CEEB?style=flat)
+![Random Forest](https://img.shields.io/badge/Random_Forest-87CEEB?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-87CEEB?style=flat)
+![SVM](https://img.shields.io/badge/SVM-87CEEB?style=flat)
+![ANN](https://img.shields.io/badge/ANN-87CEEB?style=flat)
+![CNN](https://img.shields.io/badge/CNN-87CEEB?style=flat)
+![RNN](https://img.shields.io/badge/RNN-87CEEB?style=flat)
+![LSTM](https://img.shields.io/badge/LSTM-87CEEB?style=flat)
+
+#### MLOps and Model Deployment
+![Model Fine-tuning](https://img.shields.io/badge/Model_Fine--tuning-87CEEB?style=flat)
+![GGUF](https://img.shields.io/badge/GGUF-87CEEB?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Deployment Pipelines](https://img.shields.io/badge/Deployment_Pipelines-87CEEB?style=flat)
+![CI/CD](https://img.shields.io/badge/CI/CD-87CEEB?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+#### Cloud and DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white)
+
+#### Backend, Frontend and Database
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-87CEEB?style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/vivesh_kumar_singh19/">
+    <img src="https://leetcard.jacoblin.cool/vivesh_kumar_singh19?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/viveshkumarsingh2020">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=viveshkumarsingh2020&theme=dark" alt="Codeforces Stats" width="48%"/>
+  </a>
+</p>
